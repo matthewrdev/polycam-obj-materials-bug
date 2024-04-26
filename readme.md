@@ -74,6 +74,7 @@ When an OBJ is exported via PolyCam, please include the following meta-data in t
 EG:
 
 ```
+# Created by Polycam (v3.4.5, iOS)
 ```
 
 This additional meta-data will help to diagnose any future OBJ exporting bugs.
