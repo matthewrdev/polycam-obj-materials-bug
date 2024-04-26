@@ -50,7 +50,7 @@ When I export an OBJ file through the Polycam app, the resultant OBJ's material 
 
 For example:
 
-````
+```
 map_Kd textured_0_32KafmqO.jpg
 ```
 
@@ -60,7 +60,7 @@ When I export an OBJ file through the Polycam app, the resultant OBJ's material 
 
 For example:
 
-````
+```
 map_Kd not_found
 ```
 
